@@ -1,0 +1,2 @@
+# kanomahoro.github.io
+blog
