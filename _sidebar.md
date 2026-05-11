@@ -12,3 +12,4 @@
   * [NaïveProxy](/docs/4_1.md)
   * [V2ray](/docs/4_2.md)
   * [Sing-Box](/docs/4_3.md)
+  * [Xray](/docs/4_4.md)
